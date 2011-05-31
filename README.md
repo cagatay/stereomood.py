@@ -10,7 +10,7 @@ example usage (plays 'chillout' playlist):
 ## TODO:
 * check for alternative players (other than mpg123)
 * add different playing modes (shuffle, repeat)
-* add notification support (for [awesome wm](http://awesome.naquadah.org/)
+* add notification support (for [awesome wm](http://awesome.naquadah.org/))
 * list available moods?
 * play through random moods
 * fetch continously
