@@ -13,4 +13,4 @@ example usage (plays 'chillout' playlist):
 * add notification support (for [awesome wm](http://awesome.naquadah.org/))
 * list available moods?
 * play through random moods
-* fetch continously
+* <del>fetch continously</del>
